@@ -7,7 +7,7 @@ This repository contains files related to the capstone demo project, including:
 
 - Impact Report
 - Demo Slides
-- Excel Spreadsheets
+- Google Spreadsheets
 
 ## Navigation
 You can navigate to all the files using the main impact report of the Demo Sauce & Spoon Slides file.
